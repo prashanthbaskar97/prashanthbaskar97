@@ -1,7 +1,7 @@
 # 𝙿𝚛𝚊𝚜𝚑𝚊𝚗𝚝𝚑 𝙱𝚊𝚜𝚔𝚊𝚛  
 #### 💻 *Senior Java Developer* 
 
-![Java Developer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z3M3Q4Y2F0ZzN2b2Y1dDl4cG5tY3J6bG5yY2R5dW1uN3Q0c2N6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JuFoyhG9qJ9qgjQYjo/giphy.gif)
+![Java Developer GIF](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611hc4ob3qy4get8denjwdgebq32pu3su75uhzmce4j&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
@@ -52,6 +52,9 @@
   🏅 Huggingface - Fundamentals of AI Agents (2024)
 
 ---
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-baskar)
 
 ## 💡 **Latest Technical Explorations**
 ```java
@@ -65,7 +68,3 @@ public class Innovation {
 }
 
 
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-baskar)
