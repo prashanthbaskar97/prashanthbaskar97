@@ -41,7 +41,7 @@
 
 - **MS in Information Systems**  
   *Northeastern University* (2023-2025)  
-  *Relevant Coursework*: Cloud Architecture, Enterprise Software Design, Agile Methodologies
+  *Relevant Coursework*: Web Design User Experience, Enterprise Software Design, Design Patterns, Object Oriented Programming,Data Science Engineering Methods , Application Engineering Development, Business Process Engineering , Program Structures & Algorithms
 
 - **BTech in Computer Science**  
   *Amrita University* (2018)  
