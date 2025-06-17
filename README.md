@@ -31,7 +31,7 @@
 ### **Key Projects**:
 | Project          | Tech Stack              | Impact                                  |
 |------------------|-------------------------|-----------------------------------------|
-| Atlas Platform   | Spring Boot, AWS, GraphQL | Reduced deployment time by 40% via Pulumi IaC |
+| CloudScribe      | Spring Boot, AWS, GraphQL | Reduced deployment time by 40% via Pulumi IaC |
 | AT&T Billing Sys | J2EE, AngularJS, MySQL  | Improved data consistency by 30%        |
 | Eventful         | Spring Boot, MongoDB    | Served 10k+ users with 1200 RPS capacity|
 
